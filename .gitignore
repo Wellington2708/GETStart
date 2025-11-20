@@ -1,0 +1,33 @@
+# ─────────── Operation System ───────────
+.DS_Store
+Thumbs.db
+
+# ─────────── Development  ───────────
+.vscode/
+.idea/
+*.log
+
+# ─────────── Dependences ───────────
+node_modules/
+vendor/
+
+# ─────────── Builds  ───────────
+dist/
+build/
+out/
+coverage/
+
+# ─────────── Sensitives Files ───────────
+.env
+.env.*
+*.key
+*.pem
+
+# ─────────── Cache ───────────
+.cache/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# ─────────── Others ───────────
+*.tmp
