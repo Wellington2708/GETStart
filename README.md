@@ -89,3 +89,45 @@ BootCamp DIO – Programming Logic
 
 - **Incremento:** `++`  
 - **Decremento:** `--`  
+
+
+---
+
+## 📌 Estruturas Condicionais
+
+### ❗ O que são Condicionais?
+São estruturas que permitem ao programa **tomar decisões**, executando diferentes blocos de código dependendo se uma condição é verdadeira ou falsa.
+
+---
+
+### 🔻 **if**
+Executa um bloco de código **somente quando** a condição for verdadeira.
+
+### 🔻 **else**
+Executa um bloco de código **quando a condição do `if` for falsa**.
+
+### 🔻 **else if**
+Permite testar **novas condições** caso o `if` inicial seja falso.
+
+### 🔻 **switch**
+Estrutura usada para comparar um valor com **diversos casos possíveis**, executando o bloco correspondente ao caso encontrado.
+
+---
+
+## 📌 Laços de Repetição
+
+### 🔁 O que são laços?
+São estruturas que permitem **executar um código repetidamente**, enquanto uma condição for verdadeira ou até um número de repetições ser atingido.
+
+---
+
+### 🔻 **for**
+Usado quando se sabe **quantas vezes** o bloco deve ser repetido. Possui três partes: inicialização, condição e incremento.
+
+### 🔻 **while**
+Repete o bloco **enquanto** a condição for verdadeira. Ideal quando não se sabe o número exato de repetições.
+
+### 🔻 **do...while**
+Semelhante ao `while`, mas **executa o bloco pelo menos uma vez**, pois a verificação da condição ocorre somente após a execução.
+
+---
