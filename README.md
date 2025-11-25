@@ -131,3 +131,27 @@ Repete o bloco **enquanto** a condição for verdadeira. Ideal quando não se sa
 Semelhante ao `while`, mas **executa o bloco pelo menos uma vez**, pois a verificação da condição ocorre somente após a execução.
 
 ---
+
+
+
+## 📌 Funções
+
+### 🔸 **O que são Funções?**
+Servem para **reutilizar código** e dividir a lógica em partes mais organizadas.
+
+Uma função:
+- Pode **receber ou não parâmetros**
+- Pode **retornar ou não um valor**
+- Sempre **executa uma ação**
+
+---
+
+### 🔹 **Funções com Parâmetros**
+São funções que **precisam de valores de entrada** para executar sua ação.  
+Quando chamadas, atuam **baseadas nos parâmetros recebidos**.
+
+---
+
+### 🔹 **Funções com Retorno**
+São funções que **devolvem um valor**, permitindo armazená-lo em variáveis ou utilizá-lo em outras partes do código.
+
