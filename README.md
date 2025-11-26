@@ -155,3 +155,31 @@ Quando chamadas, atuam **baseadas nos parâmetros recebidos**.
 ### 🔹 **Funções com Retorno**
 São funções que **devolvem um valor**, permitindo armazená-lo em variáveis ou utilizá-lo em outras partes do código.
 
+
+
+
+## 📌 Estrutura de Dados e Objetos
+
+### 🔹 JavaScript Object Notation (JSON)
+JSON serve para agrupar dados de maneira organizada.  
+É utilizado para guardar dados e transportar de um lado para outro dentro do código.  
+É um objeto simples, composto por chave e valor, com o objetivo de transferir dados.
+
+Toda vez que levamos um sistema de um lado para outro, chamamos de **API Rest**, que é um protocolo de comunicação entre sistemas.  
+O principal padrão utilizado nessas comunicações é o **JSON**.
+
+---
+
+## 📌 Objetos e Classes
+
+### 🏗️ Classe
+É a padronização do formato de uma estrutura de dados.  
+Nela podem existir vários métodos.
+
+### 📦 Objeto
+Mantém a padronização da classe e implementa seus valores de propriedades.  
+Pode também ter métodos inteligentes ou funções próprias.  
+É utilizado quando vamos trabalhar dentro da nossa aplicação ou sistema em desenvolvimento.
+
+### 🆕 Instanciar um Objeto
+Instanciar um objeto é criar na memória um novo objeto a partir de uma classe.
